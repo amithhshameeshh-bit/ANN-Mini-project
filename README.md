@@ -3,6 +3,12 @@
 ## Course
 Artificial Neural Network (24SBT113)
 
+## Team Members
+- Amith Shameesh  (01SU24AI011)
+- Anuj C          (01SU24AI015)
+- Abhinand MK     (01SU24AI003)
+- Amal CP         (01SU23AI013)
+
 ## Project 1: Perceptron
 Implemented a simple perceptron model using Python.
 Tested using AND gate dataset.
@@ -18,6 +24,3 @@ Used MLPClassifier for classification using Iris dataset.
 - Python
 - NumPy
 - Scikit-learn
-
-## Author
-Amith Shameesh
